@@ -1,0 +1,1 @@
+- The date that a book or article was published.
