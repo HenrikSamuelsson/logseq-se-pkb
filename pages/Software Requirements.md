@@ -1,5 +1,5 @@
-Type:: #overview_note
-Created:: [[2025-04-13]]
+type:: #overview_note
+created:: [[2025-04-13]]
 LinkedFrom:: [[Software Engineering Knowledge Base]]
 
 - Overview of the knowledge area and its importance in software engineering.

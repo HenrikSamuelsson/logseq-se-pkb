@@ -1,5 +1,5 @@
-Type:: #permanent_note
-Created:: [[2025-04-13]]
+type:: #permanent_note
+created:: [[2025-04-13]]
 LinkedFrom:: [[Software Requirements]]
 Tags:: #requirements
 

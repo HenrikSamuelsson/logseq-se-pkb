@@ -1,5 +1,5 @@
-Type:: #index
-Created:: [[2025-04-15]]
+type:: [[index_note]]
+created:: [[2025-04-15]]
 
 - This index provides an overview of the 18 knowledge areas from the [[SWEBOK V4 (2024)]]. It is the starting point to explore related structure notes, permanent notes, and literature references.
 - ## 🧠 Core Knowledge Areas
