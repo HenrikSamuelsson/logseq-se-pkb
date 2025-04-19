@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- 	{:journals "75-hard"}
+ {:journals ""}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
@@ -89,7 +89,7 @@
  ;; Available options:
  ;;  - integer from 0 to 6 (Monday to Sunday)
  ;; Default value: 6 (Sunday)
- :start-of-week 0
+ :start-of-week 6
 
  ;; Specify a custom CSS import.
  ;; This option takes precedence over the local `logseq/custom.css` file.

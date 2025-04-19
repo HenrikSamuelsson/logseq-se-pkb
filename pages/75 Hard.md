@@ -1,0 +1,18 @@
+## 💪 75 Hard
+- 75 Hard is a program designed to cultivate mental toughness.
+- There are six things that shall be done each day for 75 in a row:
+	- 1. Drink 1 gallon (3.8L) of plain water.
+	- 2. Perform 2 workouts.
+		- Each workout must be at least 45 minutes long.
+		- One of the workouts must be done outdoors.
+		- At least three hours between the workouts.
+	- 3. Read 10 pages in a book.
+		- Shall be non fiction book that makes you a better person.
+		- Not allowed to quit a started book until it is completely read.
+	- 4. Follow a diet
+		- Will go with natural unprocessed food.
+		- Half of the plate shall be fruit and vegetables, one quarter carbs, one quarter protein.
+		- Do gels or similar during long rides and harder rides.
+		- Carb load two days before
+	- 5. No alcohol.
+	- 6. Take a progress picture.

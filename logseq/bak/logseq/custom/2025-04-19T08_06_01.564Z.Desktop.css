@@ -1,16 +1,15 @@
 .is-paragraph > br {
-    margin-top: 8px; /* Adjust the value as needed */
+    margin-top: 4px; /* Adjust the value as needed */
     display: block; /* Ensures proper spacing */
     content: '\A'; /* Injects a line break using generated content */
     white-space: pre; /* Preserves whitespace */
 }
 
 .block-body {
-  margin-top: 4px; /* Adjust the margin as needed */
+  margin-top: 8px; /* Adjust the margin as needed */
 }
 
 /* Add spacing between blocks */
 .ls-block {
   margin-bottom: 8px;
-  margin-top: 8px;
 }

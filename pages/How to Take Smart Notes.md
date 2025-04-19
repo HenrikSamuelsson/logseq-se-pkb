@@ -19,4 +19,10 @@ format:: E-book, [[Google Play]]
 - **Related Notes**:
 	- [[Zettelkasten Overview]]
 	- [[Permanent Note Workflow]]
+		- Key Concepts:  
+		  Permanent notes vs literature and fleeting notes  
+		  Importance of smart connections between notes  
+		  Writing as a continuous process, not a final product  
+		  Zettelkasten as a thinking partner  
+		  Related Notes:
 	- [[Building a Writing Pipeline]]
