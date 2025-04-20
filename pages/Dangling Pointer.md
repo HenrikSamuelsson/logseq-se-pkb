@@ -1,6 +1,6 @@
-Type::  [[permanent_note]]
-Created:: [[2025-04-20]]
-Tags:: [[c_programming]] [[bug]] 
+Type::  [[permanent_note]]  
+Created:: [[2025-04-20]]  
+Tags:: [[c_programming]] [[bug]]   
 Source:: [[Embedded Expert's Guide to C]]
 
 - A pointer becomes a *dangling pointer* if it references a variable that have gone out of scope, or if it references a memory location that has been deallocated.
