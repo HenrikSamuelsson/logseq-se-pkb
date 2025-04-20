@@ -6,16 +6,11 @@
 }
 
 .block-body {
-  margin-top: 8px; /* Adjust the margin as needed */
+  margin-top: 4px; /* Adjust the margin as needed */
 }
 
 /* Add spacing between blocks */
 .ls-block {
   margin-bottom: 8px;
-}
-
-/* Add vertical padding inside block body */
-.block-body {
-  padding-top: 6px;
-  padding-bottom: 6px;
+  margin-top: 8px;
 }

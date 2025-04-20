@@ -1,7 +1,6 @@
-type:: #permanent_note
-created:: [[2025-04-13]]
-LinkedFrom:: [[Software Requirements]]
-Tags:: #requirements
+Type::  [[permanent_note]]
+Created:: [[2025-04-13]]
+Tags:: [[requirements]]
 
 - Functional requirements define **what a system should do**. They describe specific behaviours, functions, or features the system must provide to meet user needs.
 - *Example*: "The system shall send a confirmation email to the user after successful registration."
