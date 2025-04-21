@@ -11,3 +11,6 @@ Source:: [[Embedded Expert's Guide to C]]
 - Prevention strategies:
 	- Initialize the pointer directly at the point of declaration.
 	- As a backup we can also explicitly set to `NULL` to be able to  safely check if it’s usable before dereferencing.
+	- Compile with strict compiler warnings enabled.
+	- Use a static analysis tool.
+	- Favour static allocation when possible.
