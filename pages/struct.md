@@ -11,14 +11,13 @@ Source:: [[Embedded Expert's Guide to C]]
     int y;
   }
   ```
-- ## 🎯 Accessing Members
+- ## 🛠 Declaring and Initializing
   ```c
-  int a = p1.x;
-  p1.y = 25;
+  struct Point p1 = {10, 20};
   ```
-  If we have a pointer to a struct, it is best practice to use the [[arrow operator]] to access the members
+  or alternatively with [[designated initialization]] (C99)
   ```c
-  struct Point *ptr = &p1;
+  struct Point p2 = {.x = 10, .y = 20};
   ```
 - ## 🎯 Accessing Members
   ```c
