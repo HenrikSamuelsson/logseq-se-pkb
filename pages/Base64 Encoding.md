@@ -13,7 +13,7 @@ title:: Base64 Encoding
   2. Splits those 24 bits into 4 groups of 6 bits.
   3. Each 6-bit value indexes into the Base64 alphabet, `A–Z, a–z, 0–9, +, /`.
   4. Add `=`` padding if input is not a multiple of 3 bytes.
-- ## 📉 Base 64 Encoding Example
+- ## ✎ Base 64 Encoding Example
   Binary: `01001000 01101001 00100001`
   6 bits groups: `010010` `000110` `100100` `100001`
   Corresponding indexes: `18` `6` `36` `33`
