@@ -2,6 +2,7 @@ Title:: Software Construction
 Type:: [[index_note]]
 Created:: [[2025-04-26]]
 Tags:: [[software_engineering]] [[swebok]] [[knowledge_area]]
+Source:: [[SWEBOK V4 (2024)]]
 
 - ## Software Construction
 - **Description**:  
