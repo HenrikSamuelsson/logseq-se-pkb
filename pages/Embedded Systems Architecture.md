@@ -1,9 +1,10 @@
 Title:: Embedded Systems Architecture
+  Alias:: (Lacamera 2018)
   Type:: [[source_note]]
   Created:: [[2025-05-01]]
   Author:: [[Daniele Lacamera]]
   Published:: First edition May 2018, second edition January 2023
-  Tags:: [[embedded systems]] [[computer architecture]] [[real-time systems]] [[firmware]] [[IoT]] [[hardware]] [[memory management]] [[ARM Cortex-M]] [[security]]
+  Tags:: [[embedded_system]] [[computer architecture]] [[real-time system]] [[firmware]] [[IoT]] [[hardware]] [[memory management]] [[ARM Cortex-M]] [[security]]
   Source:: [Embedded Systems Architecture](Packt Publisihing)
   Format:: E-book (PDF)
 

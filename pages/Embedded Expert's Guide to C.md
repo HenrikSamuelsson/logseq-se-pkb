@@ -3,7 +3,7 @@ Type:: [[source_note]]
 Created:: [[2025-04-19]]
 Author:: [[Dr Chris Rose]]
 Published:: 2023-08-18
-Tags:: [[embedded_systems]] [[c_programming]] [[microcontrollers]] [[firmware]] [[low_level_programming]] [[software_engineering]]
+Tags:: [[embedded systems]] [[c_programming]] [[microcontrollers]] [[firmware]] [[low_level_programming]] [[software_engineering]]
 Source:: https://a.co/d/eAAN4CQ
 Format:: paperback
 

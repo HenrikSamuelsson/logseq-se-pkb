@@ -26,4 +26,4 @@ Source:: C Standard (e.g., ISO/IEC 9899)
 - ## 🚀 Why It Matters
   You must often write your own [[memory management]], [[I/O drivers]], or [[startup code]].
 - Cannot rely on functions like [[printf]] or [[malloc]] unless you implement or port them.
-- Helps you think carefully about [[resource usage]] and [[initialization]] in [[embedded systems]].
+- Helps you think carefully about [[resource usage]] and [[initialization]] in [[embedded_system]].

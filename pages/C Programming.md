@@ -1,7 +1,7 @@
 Title:: C Programming
 Type:: [[index_note]]
 Created:: [[2025-04-27]]
-Tags:: [[software_engineering]] [[programming]] [[c_programming]] [[embedded_systems]]
+Tags:: [[software_engineering]] [[programming]] [[c_programming]] [[embedded systems]]
 
 - ## C Programming
 - **Description**:  
