@@ -420,7 +420,10 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd"
- :ui/show-brackets? false
- :graph/settings {:excluded-pages? false
- :journal? false}}
+ :ui/show-brackets? false}
 
+ :property-visibility {
+  :Type :hide
+  :Created :hide
+  :template :hide
+ }

@@ -1,3 +1,5 @@
+exclude-from-graph-view:: true
+
 template:: knowledge-area-index-note
   Title:: 
   Type:: [[index_note]]
@@ -36,6 +38,7 @@ template:: knowledge-area-index-note
 		- [[Related Note 2]]
 		- [[Related Note 3]]
 - template:: permanent-note
+  collapsed:: true
     Title:: 
     Alias:: 
     Type:: [[permanent_note]]
