@@ -20,7 +20,7 @@ Source:: [Nordic Developer Academy: nRF Connect SDK Fundamentals](https://academ
 	- TODO Device driver model
 	-
 - ## 🧠 Key Concepts
-- [[nrf_connect_sdk]]
-- [[zephyr_rtos]]
+- [[nRF Connect SDK]]
+- [[Zephyr RTOS]]
 - [[West]]
 - [[nRF Connect for VS Code Extension Pack]]

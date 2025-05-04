@@ -1,0 +1,1 @@
+- *Disassemble* means convert back from binary to [[assembly]].

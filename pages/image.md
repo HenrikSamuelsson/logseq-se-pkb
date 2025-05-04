@@ -1,0 +1,18 @@
+# Image
+- ## ✏️ Definition
+- An image* is a compiled output of a program that contains all the machine code and data needed to run on the target hardware.
+- ## 📦Contents
+- An image may include:
+	- Executable code (.text section)
+	- Initialized data (.data)
+	- Uninitialized data placeholders (.bss)
+	- Vector tables, interrupt handlers, etc.
+- ## 🧱 Image Formats
+- There are several different image formats for different use cases, for example:
+	- `.elf`: Executable and Linkable Format (rich in debug info)
+	- `.bin`: Raw binary image (just the memory contents, no metadata)
+	- `.hex`: Intel HEX format (text-based, for use with many [[flash tools]])
+- ## 🛠 In Practice
+- During build: The compiler and linker produce an `.elf` file.
+- For flashing: You convert that `.elf` to a `.bin` or `.hex` *image*.
+- When writing docs: “Firmware image” often means “the thing you flash to your board.”
