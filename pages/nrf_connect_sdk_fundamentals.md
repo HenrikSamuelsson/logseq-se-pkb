@@ -12,7 +12,7 @@ Source:: [Nordic Developer Academy: nRF Connect SDK Fundamentals](https://academ
 - ## ⏳Progress
 - ### Lesson 1 - nRF Connect SDK Introduction
 	- DONE nRF Connect SDK structure and content
-	- TODO Exercise 1
+	- DONE Exercise 1
 	- TODO Exercise 2
 	- TODO Lesson 1 Quiz
 - ### Lesson 2 - Reading buttons and controlling LEDs
