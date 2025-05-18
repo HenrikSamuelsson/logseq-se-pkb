@@ -17,6 +17,8 @@ Title:: Embedded Systems Architecture
 		- Interaction with hardware (memory, I/O, peripherals)
 		- Real-time systems and task scheduling
 		- Secure communication and system robustness
+	- ## Resources
+		- Book's code repository [Embedded-Systems-Architecture-Second-Edition](https://github.com/PacktPublishing/Embedded-Systems-Architecture-Second-Edition)
 	- ## Related Notes
 		- [[TLS]]
 		- [[Trusted Execution Environment]]
