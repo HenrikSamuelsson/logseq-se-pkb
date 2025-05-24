@@ -1,0 +1,29 @@
+# 📘 Engineer's Survival Guide
+	- ## Summary
+		- *The Engineer's Survival Guide* is a practical book aimed at helping software engineers navigate their careers beyond just coding.
+		- It covers essential [[soft skills]] such as:
+			- Convincing others
+			- Handling feedback
+			- Resolving conflicts
+			- Driving effective meetings
+			- Navigating office politics
+			- And more
+	- ## Why it matters
+		- Technical skills alone aren't enough for long-term success.
+		- This book fills in critical gaps related to interpersonal and organizational dynamics that aren't typically taught but are essential to thrive.
+	- ## Notes by chapter
+		- ### 1. Introduction and Who This Book Is For
+			- Aimed at people working in tech.
+			- Focuses on developing key [[soft skills]]:
+				- [[Conflict resolution techniques]]
+				- [[Design discussions]]
+				- [[Unblocking yourself]]
+				- [[Career strategy for engineers]]
+				- [[Dealing with ambiguity]]
+			- Goal is to be happy at work and in your life.
+			- Additional resources available at [EngineersSurvivalGuide.com](https://www.engineerssurvivalguide.com/)
+	- ## Related Notes
+		- [[Soft skills in software engineering]]
+		- [[Career strategy for engineers]]
+		- [[Conflict resolution techniques]]
+		- [[Running effective meetings]]
