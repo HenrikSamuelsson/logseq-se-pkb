@@ -22,6 +22,21 @@
 				- [[Dealing with ambiguity]]
 			- Goal is to be happy at work and in your life.
 			- Additional resources available at [EngineersSurvivalGuide.com](https://www.engineerssurvivalguide.com/)
+		- ### 2. First Day at Work and Imposter Syndrome
+			- [[Imposter Syndrome]] is the feeling of not belonging or not being good enough.
+				- It's especially common on your first day or during early stages in a new role.
+				- Important reminders:
+					- You were hired for a reason — trust the hiring process.
+					- Most people feel this way at some point.
+					- Confidence comes with time and experience.
+					- Do not let it get to you.
+				- Strategies to manage it:
+					- Focus on learning, not proving yourself.
+					- Ask questions — it shows engagement, not weakness.
+					- Document what you learn to build reference and confidence.
+					- Talk to peers or mentors about your feelings — you're likely not alone.
+					- Remember that we are getting paid to figure things out. We are not expected to already know everything.
+			-
 	- ## Related Notes
 		- [[Soft skills in software engineering]]
 		- [[Career strategy for engineers]]
