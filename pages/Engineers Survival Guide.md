@@ -42,6 +42,7 @@
 					- Remember that we are getting paid to figure things out. We are not expected to already know everything.
 			-
 		- ### 3. The Importance of Data to Convince Others
+		  collapsed:: true
 			- People are busy and it can be hard to get buy-in for your ideas.
 			- Providing data makes it easier to convince others.
 				- Example from the book: a query revealed that users frequently use a map function — this insight supports making it easier to find.
@@ -49,6 +50,17 @@
 				- Memory usage
 				- Processor utilization
 				- Exceptions/system restarts
+		- ### 4. How Often Should You Interview?
+		  collapsed:: true
+			- There are multiple benefits to going on job interviews:
+				- You meet new people.
+				- You get an idea about your current compensation level.
+				- You open up new options.
+				- You might discover more enjoyable or fulfilling work.
+				- You keep your knowledge up to date — especially in areas like data structures and algorithms.
+				- You learn about yourself: what you do well and what you need to improve.
+			- You shouldn't wait until it's absolutely necessary to interview — take most opportunities as they come.
+			- You don't have to wait for a recruiter; you can also proactively reach out to companies.
 	- ## Related Notes
 		- [[Soft skills in software engineering]]
 		- [[Career strategy for engineers]]
