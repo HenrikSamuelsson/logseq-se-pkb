@@ -61,6 +61,19 @@
 				- You learn about yourself: what you do well and what you need to improve.
 			- You shouldn't wait until it's absolutely necessary to interview — take most opportunities as they come.
 			- You don't have to wait for a recruiter; you can also proactively reach out to companies.
+		- ### 5. Learning to Say No and Brutal Prioritization
+		  collapsed:: true
+			- It's important to be able to say no.
+			- You can't do everything — prioritization is essential.
+			- Focus must stay on high-impact tasks.
+			- Always keep the bigger plan in mind:
+				- Say no to tasks that don't align with your long-term goals.
+			- Consider the opportunity cost:
+				- If I do this, what do I have to give up?
+					- If I go to the after-work event, I’ll miss my gym session.
+					- If I debug the radio controller, I can’t work on the new product requirements.
+			- When saying no, explain your reasoning:
+				- Use opportunity cost as a justification to help others understand your decision.
 	- ## Related Notes
 		- [[Soft skills in software engineering]]
 		- [[Career strategy for engineers]]
