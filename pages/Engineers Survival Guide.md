@@ -74,6 +74,11 @@
 					- If I debug the radio controller, I can’t work on the new product requirements.
 			- When saying no, explain your reasoning:
 				- Use opportunity cost as a justification to help others understand your decision.
+		- ### 6. Never Say No!
+		  collapsed:: true
+			- Avoid the word no when someone ask you to do something for them, people can take this word personally and start disliking you.
+			- Instead of saying the word no we can say "Yes I would love to do that but I don't have time for it now due to this task X that have high priority."
+			- To explain why it is not possible to do something it is important to keep a prioritized backlog to know what to say when getting asked to do things.
 	- ## Related Notes
 		- [[Soft skills in software engineering]]
 		- [[Career strategy for engineers]]
